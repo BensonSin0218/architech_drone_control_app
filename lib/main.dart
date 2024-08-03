@@ -1,5 +1,5 @@
 import 'package:architech_drone_control_app/bindings/app_binding.dart';
-import 'package:architech_drone_control_app/models/app/app_styles.dart';
+import 'package:architech_drone_control_app/models/app_styles.dart';
 import 'package:architech_drone_control_app/routes/app_pages.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';

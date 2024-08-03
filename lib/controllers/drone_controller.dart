@@ -1,10 +1,10 @@
 import 'dart:developer';
 
-import 'package:architech_drone_control_app/models/enums/socket/socket_event.dart';
-import 'package:architech_drone_control_app/models/enums/socket/socket_interface.dart';
-import 'package:architech_drone_control_app/models/enums/socket/socket_state.dart';
-import 'package:architech_drone_control_app/models/enums/steaming_interface.dart';
+import 'package:architech_drone_control_app/models/socket/socket_event.dart';
+import 'package:architech_drone_control_app/models/socket/socket_interface.dart';
+import 'package:architech_drone_control_app/models/socket/socket_state.dart';
 import 'package:architech_drone_control_app/models/socket_messages/geometry_messages/twist.dart';
+import 'package:architech_drone_control_app/models/steaming_interface.dart';
 import 'package:architech_drone_control_app/utils/helpers/ui_helper.dart';
 import 'package:get/get.dart';
 import 'package:media_kit/media_kit.dart';

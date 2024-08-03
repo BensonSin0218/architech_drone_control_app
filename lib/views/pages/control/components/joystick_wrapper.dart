@@ -1,4 +1,4 @@
-import 'package:architech_drone_control_app/models/app/app_styles.dart';
+import 'package:architech_drone_control_app/models/app_styles.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_joystick/flutter_joystick.dart';
 

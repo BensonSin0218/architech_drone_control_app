@@ -1,7 +1,7 @@
 import 'package:architech_drone_control_app/controllers/app_controller.dart';
 import 'package:architech_drone_control_app/controllers/drone_controller.dart';
-import 'package:architech_drone_control_app/models/app/app_styles.dart';
-import 'package:architech_drone_control_app/models/enums/steaming_interface.dart';
+import 'package:architech_drone_control_app/models/app_styles.dart';
+import 'package:architech_drone_control_app/models/steaming_interface.dart';
 import 'package:architech_drone_control_app/utils/helpers/ui_helper.dart';
 import 'package:architech_drone_control_app/views/pages/control/components/control_setting_panel.dart';
 import 'package:architech_drone_control_app/views/pages/control/components/debug/debug_panel.dart';

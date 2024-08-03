@@ -33,7 +33,6 @@ dev_dependencies:
   json_serializable: ^6.8.0
   build_runner: ^2.4.11
 
-
 flutter:
   uses-material-design: true
 

@@ -1,4 +1,4 @@
-import 'package:architech_drone_control_app/models/enums/socket/socket_state.dart';
+import 'package:architech_drone_control_app/models/socket/socket_state.dart';
 import 'package:flutter/material.dart';
 
 class SocketStateRow extends StatelessWidget {

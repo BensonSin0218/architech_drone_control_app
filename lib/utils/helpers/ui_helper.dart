@@ -1,9 +1,9 @@
-import 'package:architech_drone_control_app/models/app/app_styles.dart';
+import 'package:architech_drone_control_app/models/app_styles.dart';
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:get/get.dart';
 
-part 'package:architech_drone_control_app/models/enums/ui_helper/ui_type.dart';
+part 'package:architech_drone_control_app/models/ui_helper/ui_type.dart';
 
 class UiHelper {
   static Future<dynamic> showDialog({

@@ -1,5 +1,5 @@
 {
-  "dart.flutterSdkPath": ".fvm/versions/3.22.2",
+  "dart.flutterSdkPath": ".fvm/versions/stable",
   "dart.sdkPath": ".fvm/fvm_sdk",
   "search.exclude": {
     "**/.fvm": true,
@@ -10,5 +10,8 @@
   "files.watcherExclude": {
     "**/.fvm": true
   },
-  "editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"]
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.fixAll"
+  ]
 }
